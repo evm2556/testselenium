@@ -7,7 +7,7 @@
         {
             "taskName": "build",
             "args": [
-                "${workspaceRoot}/selenium.csproj"
+                "${workspaceRoot}/testSel.csproj"
             ],
             "isBuildCommand": true,
             "problemMatcher": "$msCompile"
